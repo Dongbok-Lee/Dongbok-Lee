@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7b9acc&height=300&fontAlignY=40&rotate=-3&&desc=Welcome!&descAlign=90&animation=twinkling&fontColor=FCF6F5&section=header&text=Dongbok's%20github&fontSize=90)
-
+<img width = "100%" src="https://capsule-render.vercel.app/api?type=waving&color=7b9acc&height=300&&fontAlignY=40&rotate=-3&&desc=Welcome!&descAlign=90&animation=twinkling&fontColor=FCF6F5&section=header&text=Dongbok's%20github&fontSize=90" />
 <h1 align = "center">🐱‍💻Tech Stack</h1>
 <p align = "center">I've used at least once</p>
 <p align= "center">
