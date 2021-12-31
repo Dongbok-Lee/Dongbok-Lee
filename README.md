@@ -25,8 +25,8 @@
 
 <h1 align = 'center'>🧑About Me</h1>
 <div align = "center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/dongbok____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://velog.io/@ldb0820"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="https://typoon0820@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
   
