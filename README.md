@@ -8,12 +8,18 @@
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/>
+  
   </br>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-5dd3f3?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-7CB701?style=flat-square&logo=NODE.JS&logoColor=white"/>
+
 </p></br>
 
 <h1 align = 'center'>🛠My Stat</h1>
