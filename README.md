@@ -6,7 +6,7 @@
 코드를 통해 문제를 해결하고 성장하는 제 모습을 보며 즐거움을 느낍니다.
 
 <a href="https://www.instagram.com/dongbok____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://velog.io/@ldb0820"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://dev-bok.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://typoon0820@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </br>
 
