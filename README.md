@@ -10,9 +10,10 @@
 <a href="https://typoon0820@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </br>
 
-<h2 align = "left"> 🪚Tech Stack</h2>
+<h2 align = "left"> ⚙Tech Stack</h2>
 <p align= "left">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
@@ -21,12 +22,15 @@
 
 <h2 align = "left"> 🤝Project</h2>
 <li><a href="https://github.com/Pray2U/Pray2U_Homepage_BE">Pray2You HomePage</a></li>
-<li><a href="https://github.com/shoppingmall-page-study">ShoppingMall Project</a></li>
+<li><a href="https://github.com/Dongbok-Lee/SSmart_Office">SSmart Office</a></li>
+<li><a href="https://github.com/GetCheese">GetCh</a></li>
+<li><a href="https://github.com/Dongbok-Lee/CloseToYou">Close To You</a></li>
+<li><a href="https://github.com/Dongbok-Lee/S.F.D">S.F.D</a></li>
 <li><a href="https://github.com/ash-hun/Ssukzip">Ssukzip</a></li>
 </br>
 
 <h2 align = "left"> 🦾Career</h2>
-<li>SSAFY 11기 / 2023.01.02 ~ </li>
+<li>SSAFY 11기 / 2023.01 ~ 2024.12</li>
 <li>키즈네임 / 네임스티커 자동화 작업 외주 / 2023.01 ~ 2023.02 </li> <br>
 </br>
 
