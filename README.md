@@ -1,18 +1,20 @@
-<h2> 🔥About me</h2>
 
-
-
-### 백엔드 개발자 이동복 입니다.
-코드를 통해 문제를 해결하고 성장하는 제 모습을 보며 즐거움을 느낍니다.
-
+# 💻 백엔드 개발자 이동복 입니다.
 <a href="https://www.instagram.com/dongbok____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://dev-bok.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://typoon0820@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </br>
 
+저는 **적극적인 소통**을 통해 팀원들과 원활한 협력을 이루어내는 개발자입니다. </br>
+문제를 해결할 때 **다양한 관점**을 고려하여 폭넓게 사고하고, 이를 바탕으로 창의적이고 실용적인 해결책을 제시합니다. </br>
+모든 코드는 **명확한 이유와 목적**을 가지고 작성되어야 한다는 철학 아래, 단순한 구현을 넘어 가치 있는 변화를 만들어가는 것을 목표로 합니다.
+
+
+</br>
+
 <h2 align = "left"> ⚙Tech Stack</h2>
 <p align= "left">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
