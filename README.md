@@ -23,8 +23,8 @@
 </p></br>
 
 <h2 align = "left"> 🤝Project</h2>
-<li><a href="https://github.com/Pray2U/Pray2U_Homepage_BE">Pray2You HomePage</a></li>
 <li><a href="https://github.com/Dongbok-Lee/SSmart_Office">SSmart Office</a></li>
+<li><a href="https://github.com/Pray2U/Pray2U_Homepage_BE">Pray2You HomePage</a></li>
 <li><a href="https://github.com/GetCheese">GetCh</a></li>
 <li><a href="https://github.com/Dongbok-Lee/CloseToYou">Close To You</a></li>
 <li><a href="https://github.com/Dongbok-Lee/S.F.D">S.F.D</a></li>
