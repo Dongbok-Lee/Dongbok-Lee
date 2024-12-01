@@ -36,6 +36,19 @@
 <li>키즈네임 / 네임스티커 자동화 작업 외주 / 2023.01 ~ 2023.02 </li> <br>
 </br>
 
+<h2 align = "left"> 🏆Awards</h2>
+<li>영남대 국제 캡스톤 경진대회 1차 우수상 [TokTok]</li>
+<li>영남대 국제 캡스톤 경진대회 2차 Best Design상 [TokTok]</li>
+<li>한남대학교 컴퓨터 공학과 학술제 우수상[Ssukzip] </li>
+<li>한남대학교 코드 마스터 경진대회 2등</li>
+<li>H-Bridge 공학 페스티벌 창의 경진 대회 우수상 [Ssukzip]</li>
+<li>한남대학교 2023 Micro Design Challenge Hackathon 대상[Smartcart]</li>
+<li>영국 맥도날드 HappyMeal 프로젝트 경진대회 3등</li>
+<li>삼성 SW 특화 우수 성적 1등</li>
+<li>삼성 SW 1학기 최우수 프로젝트 [GetCh]</li>
+<li>삼성 SW 특화 최우수 프로젝트 [S.F.D]</li>
+</br>
+
 <h2 align = 'left'>🛠My Stat</h2>
 <div align = "left">
 <img src="https://github-readme-stats.vercel.app/api?username=Dongbok-Lee" height="170">
