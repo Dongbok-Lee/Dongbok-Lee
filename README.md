@@ -44,7 +44,7 @@
 <li>H-Bridge 공학 페스티벌 창의 경진 대회 우수상 [Ssukzip]</li>
 <li>한남대학교 2023 Micro Design Challenge Hackathon 대상[Smartcart]</li>
 <li>영국 맥도날드 HappyMeal 프로젝트 경진대회 3등</li>
-<li>삼성 SW 특화 우수 성적 1등</li>
+<li>삼성 SW 1학기 성적 우수상 1등</li>
 <li>삼성 SW 1학기 최우수 프로젝트 [GetCh]</li>
 <li>삼성 SW 특화 최우수 프로젝트 [S.F.D]</li>
 </br>
